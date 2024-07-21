@@ -1,4 +1,4 @@
-##Shrugman
+#Shrugman
 
 #Description:
 This repository contains the code for a simple Shrugman game in Node.js where players guess letters to reveal a word from categories like movies, books, or sports.
