@@ -4,7 +4,7 @@ let gamesPlayed = [];
 
 function initializeGame(category) {
   const words = {
-    movies: ["John Wick", "The Godfather", "Matrix"],
+    movies: ["John Wick", "Transporter", "Matrix"],
     books: ["War and Peace", "Emma", "Dracula"],
     sports: ["football", "basketball", "tennis"],
   };
